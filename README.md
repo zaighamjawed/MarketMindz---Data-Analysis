@@ -1,10 +1,10 @@
 # MarketMindz---Data-Analysis
 
-### 1.	Project Title / Headline
+### 1.	Project Title 
 
 MarketMindz Analytics
 
-### 2.	Short Description / Purpose
+### 2.	Purpose
 
 The MarketMindz Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare six recent marketing campaigns. The dashboard focuses on highlighting campaign performance, Buyers composition and Purchase drivers . This tool is intended for use by client to keep up with performance of their campaigns, buyers and to drive data-driven strategies to understand trends and characteristics of their sales.
 
@@ -22,12 +22,12 @@ The dashboard was built using the following tools and technologies:<br>
 Source: Marketing data provided by the client.
 Data on six marketing campaigns along with the details of the customer, platform, product, sales, etc
 
-### 5.	Features / Highlights
+### 5. Highlights
 
 •	Business Problem
 The client is a small food-and-beverage retail vendor that lacks understanding of their market, customer behavior, and the effectiveness of their recent marketing efforts. They need visibility into how well their campaigns and products are performing so they can make informed decisions that improve sales and customer engagement
 
-Key questions such as:
+Key questions:
 1) How are the six recent marketing campaigns performing?
 (Engagement, conversions, reach, effectiveness)
 
@@ -70,4 +70,4 @@ Enhanced Customer Understanding: Customer segmentation insights help the client 
 Better Decision-Making: Consolidated analytics empower leadership to quickly act on trends, forecast demand, and make confident, evidence-based decisions.
 
 ### 6.	Screenshots / Demos
-[Dashboard Preview]: https://github.com/zaighamjawed/MarketMindz---Data-Analysis/blob/main/MarketMindz%20Dashboard.PNG
+[Dashboard Preview]:  https://github.com/zaighamjawed/MarketMindz---Data-Analysis/blob/main/MarketMindz%20Dashboard.PNG
