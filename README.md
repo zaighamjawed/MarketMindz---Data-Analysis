@@ -1,5 +1,5 @@
 # MarketMindz---Data-Analysis
-## Recommended Structure and Order
+
 ### 1.	Project Title / Headline
 
 MarketMindz Analytics
