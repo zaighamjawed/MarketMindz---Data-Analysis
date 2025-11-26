@@ -61,13 +61,11 @@ Web Purchases: 9K
 - Campaigns with the most sales (Clustered column chart)
 - Customer preference with respective to age (Staked Cloumn Chart)
 
-•	Business Impact
 
+•	Business Impact
 Data-Driven Product Strategy: By understanding product performance, the client can optimize inventory, focus on high-value items, and phase out low performers.
 
 Enhanced Customer Understanding: Customer segmentation insights help the client tailor promotions, refine pricing, and design more effective marketing strategies.
 
 Better Decision-Making: Consolidated analytics empower leadership to quickly act on trends, forecast demand, and make confident, evidence-based decisions.
 
-### 6.	Screenshots / Demos
-[Dashboard Preview]:  https://github.com/zaighamjawed/MarketMindz---Data-Analysis/blob/main/MarketMindz%20Dashboard.PNG
