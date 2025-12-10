@@ -63,9 +63,15 @@ Web Purchases: 9K
 
 
 •	Business Impact
-Data-Driven Product Strategy: By understanding product performance, the client can optimize inventory, focus on high-value items, and phase out low performers.
 
-Enhanced Customer Understanding: Customer segmentation insights help the client tailor promotions, refine pricing, and design more effective marketing strategies.
+1. Scale and replicate high-performing campaigns (Especially Campaign6 & Campaign5)
 
-Better Decision-Making: Consolidated analytics empower leadership to quickly act on trends, forecast demand, and make confident, evidence-based decisions.
+These campaigns drive the most purchases and revenue because they promote high-value products (Wines/Meat) and reach customers through Store + Web channels. Increase budget, expand targeting, and reuse their offer structure to maximize ROI.
 
+2. Redesign low-performing Campaign2 with better product mix and targeting
+
+Campaign2 severely underperforms in conversions and revenue due to weak product alignment and limited platform reach. Retarget older, higher-income family households and introduce premium product bundles to boost engagement.
+
+3. Prioritize Store + Web channels while bundling premium products for core customers
+
+Since most purchases occur via Store and Web, campaigns should focus on these channels. Promote Wine + Meat bundles to older, married, graduate-level customers—your strongest spending segment.
